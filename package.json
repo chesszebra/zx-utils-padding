@@ -1,0 +1,20 @@
+{
+  "name": "@chesszebra/zx-utils-padding",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chesszebra/zx-utils-padding.git"
+  },
+  "keywords": ["design-system", "design", "pattern", "patterns", "pattern-library", "component-library"],
+  "author": "ChessZebra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chesszebra/zx-utils-padding/issues"
+  },
+  "homepage": "https://github.com/chesszebra/zx-utils-padding"
+}
+
