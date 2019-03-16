@@ -1,0 +1,35 @@
+.zx-no-padding {
+  padding: 0 !important;
+}
+
+@for $i from 1 through 5 {
+  .zx-padding-#{$i} {
+    padding: #{$i}rem !important;
+  }
+
+  .zx-padding-top-#{$i} {
+    padding-top: #{$i}rem !important;
+  }
+
+  .zx-padding-bottom-#{$i} {
+    padding-bottom: #{$i}rem !important;
+  }
+
+  .zx-padding-left-#{$i} {
+    padding-left: #{$i}rem !important;
+  }
+
+  .zx-padding-right-#{$i} {
+    padding-right: #{$i}rem !important;
+  }
+}
+
+.zx-py-30 {
+  padding-top: 30px !important;
+  padding-bottom: 30px !important;
+}
+
+.zx-py-40 {
+  padding-top: 40px !important;
+  padding-bottom: 40px !important;
+}
